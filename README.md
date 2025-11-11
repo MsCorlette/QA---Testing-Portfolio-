@@ -17,6 +17,7 @@ This repository showcases hands-on manual testing work across multiple demo appl
 
 ## Contact
 **Corlette Kabasia**
+
 Corletteboitumelo@gmail.com
 
 www.linkedin.com/in/corlette-kabasia
